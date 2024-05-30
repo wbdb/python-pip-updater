@@ -1,7 +1,3 @@
-Hier ist die Beschreibung für GitHub:
-
----
-
 ## Automatic Pip Updater
 
 This Python script automates the process of upgrading `pip` and updating all outdated packages installed via `pip`.
